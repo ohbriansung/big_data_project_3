@@ -145,3 +145,6 @@ pip-selfcheck.json
 # Brian
 key.sh
 metastore_db/
+
+# mcdomingo
+start.sh
