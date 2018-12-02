@@ -3,3 +3,8 @@
 Project Specification: https://www.cs.usfca.edu/~mmalensek/cs677/assignments/project-3.html
 
 Check your Jupyter notebook(s), code, materials, etc. into this repo.
+
+### mcdomingo TODO:
+
+* Climate Chart
+* Escaping the fog
