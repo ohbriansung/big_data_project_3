@@ -6,5 +6,7 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 
 ### mcdomingo TODO:
 
-* Climate Chart
-* Escaping the fog
+| Name | Person | Filters | Analysis |
+| ---- |:------:|:-------:|---------:|
+| Escaping the Fog | mcdomingo | done | todo |
+| Climate Chart | mcdomingo | todo | todo |
