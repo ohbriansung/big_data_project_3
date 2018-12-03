@@ -6,7 +6,7 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 
 ### mcdomingo TODO:
 
-| Name | Person | Filters | Analysis |
-| ---- |:------:|:-------:|---------:|
+| Part | Person | Filters | Analysis |
+| ---- |:------:|:-------:| --------:|
 | Escaping the Fog | mcdomingo | done | todo |
 | Climate Chart | mcdomingo | todo | todo |
