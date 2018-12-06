@@ -11,3 +11,13 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 | Escaping the Fog | mcdomingo | done | todo | todo |
 | Climate Chart | mcdomingo | done | todo | todo |
 | Influencers | mcdomingo | done | todo | todo |
+
+### ohbriansung TODO:
+
+| Part | Person | Filters | Analysis | Editing
+| ---- |:------:|:-------:|:--------:| ------:|
+| Drying out | ohbriansung | done | done | todo |
+| Travel Starup | ohbriansung | done | done | todo |
+| Option 1: Describe the dataset | ohbriansung | todo | todo | todo |
+| Option 1: Outline the insights | ohbriansung | todo | todo | todo |
+| Option 1: Make hypotheses | ohbriansung | todo | todo | todo |
