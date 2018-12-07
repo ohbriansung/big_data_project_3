@@ -18,6 +18,7 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 | ---- |:------:|:-------:|:--------:| ------:|
 | Drying out | ohbriansung | done | done | todo |
 | Travel Starup | ohbriansung | done | done | todo |
-| Option 1: Describe the dataset | ohbriansung | todo | todo | todo |
-| Option 1: Outline the insights | ohbriansung | todo | todo | todo |
-| Option 1: Make hypotheses | ohbriansung | todo | todo | todo |
+| Option 1: Describe the dataset | ohbriansung | done | N/A | todo |
+| Option 1: Outline the insights | ohbriansung | done | N/A | todo |
+| Option 1: Make hypotheses | ohbriansung | todo | N/A | todo |
+| Option 1: Crime Types by date | ohbriansung | todo | todo | todo |
