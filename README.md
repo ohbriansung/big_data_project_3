@@ -8,9 +8,11 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 
 | Part | Person | Filters | Analysis | Editing
 | ---- |:------:|:-------:|:--------:| ------:|
-| Escaping the Fog | mcdomingo | done | todo | todo |
-| Climate Chart | mcdomingo | done | todo | todo |
-| Influencers | mcdomingo | done | todo | todo |
+| Escaping the Fog | mcdomingo | done | done | done |
+| Climate Chart | mcdomingo | done | done *Need to EC* | done |
+| Influencers | mcdomingo | done | done | done |
+| Option 1: Heatmap of crimes (hypothesis) | mcdomingo | N/A | todo | todo | 
+| Option 1: Heatmap of crimes | mcdomingo | done | done| done| 
 
 ### ohbriansung TODO:
 
