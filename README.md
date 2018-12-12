@@ -8,11 +8,12 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 
 | Part | Person | Filters | Analysis | Editing
 | ---- |:------:|:-------:|:--------:| ------:|
-| Escaping the Fog | mcdomingo | done | done | done |
-| Climate Chart | mcdomingo | done | done *Need to EC* | done |
-| Influencers | mcdomingo | done | done | done |
-| Option 1: Heatmap of crimes (hypothesis) | mcdomingo | N/A | todo | todo | 
-| Option 1: Heatmap of crimes | mcdomingo | done | done| done| 
+| [Warmups](mcdomingo_warmup) | mcdomingo | done | done | done |
+| [Escaping the Fog](The_Answers_Wow/escaping_the_fog.ipynb) | mcdomingo | done | done | done |
+| [Climate Chart](The_Answers_Wow/climate_chart.ipynb) | mcdomingo | done | done *Need to EC* | done |
+| [Influencers](The_Answers_Wow/influencers.ipynb) | mcdomingo | done | done | done |
+| Option 1: Heatmap of crimes (hypothesis) | mcdomingo | N/A | done | done | 
+| [Option 1: Heatmap of crimes](The_Answers_Wow/crime_over_time.ipynb) | mcdomingo | done | done| done | 
 
 ### ohbriansung TODO:
 
