@@ -33,7 +33,7 @@ Check your Jupyter notebook(s), code, materials, etc. into this repo.
 
 For the entire data set \(hdfs://orion11:13030/nam/*\), the hotest day was August 22, 2015 (UTC) with a 58.24 Degrees Celsius (331.4 Degrees Kelvin). It was an anomaly since the temperature was way off the normal range and it's a outlier displayed in the box graph below.
 
-~[hot_hot_hot](The_Answers_Wow/img/hot_hot_hot.png)
+![hot_hot_hot](The_Answers_Wow/img/hot_hot_hot.png)
 
 
 ### So snowy
